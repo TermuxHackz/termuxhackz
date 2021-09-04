@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love eating a lot 😅😅😅
 -->
 
-- 💠 I lovely programming a lot in shell and python and looking forward to make other scripts with perl. Going to be a great expert experience for me though.
+- 💠 I love programming a lot in shell and python and looking forward to make other scripts with perl. Going to be a great expert experience for me though.
 
 ### Stay Ethical
 <img src="https://github.com/TermuxHackz/termuxhackz/blob/master/hacker_uGThpFPb.gif"/>
