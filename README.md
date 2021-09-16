@@ -15,6 +15,6 @@
 <center>
 <img src="https://img.shields.io/badge/Author-AnonyminHack5-green"/> 
 <img src="https://img.shields.io/badge/Repo-TermuxHackz-blue"/>
-<img src="https://img.shields.io/badge/Followers-538%F0%9F%94%A5-orange"/>
+<img src="https://img.shields.io/badge/Followers-545%F0%9F%94%A5-orange"/>
 <img src="https://img.shields.io/badge/Total%20Stars-83-lightgrey"/>
 </center>
