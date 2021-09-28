@@ -1,6 +1,6 @@
 ### Hi there its me AnonyminHack5👋
 
-- 🔭 I’m currently working on more projects involving python, shell and c++
+- 🔭 I’m currently working on more projects involving python, shell, c++ and nodejs
 - 🌱 I’m currently learning perl 
 - 📫 How to reach me: <a href="https://wa.me/+2349033677589?text=Hi+AnonyminHack5+I+am ">Whatsapp</a>
 - ⚡ Fun fact: I love eating a lot 😅😅😅
@@ -15,6 +15,6 @@
 <center>
 <img src="https://img.shields.io/badge/Author-AnonyminHack5-green"/> 
 <img src="https://img.shields.io/badge/Repo-TermuxHackz-blue"/>
-<img src="https://img.shields.io/badge/Followers-560%F0%9F%94%A5-orange"/>
-<img src="https://img.shields.io/badge/Total%20Stars-85-yellow"/>
+<img src="https://img.shields.io/badge/Followers-571%F0%9F%94%A5-orange"/>
+<img src="https://img.shields.io/badge/Total%20Stars-86-yellow"/>
 </center>
