@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on more projects involving python, shell, c++ and nodejs
 - 🌱 I’m currently learning perl 
-- 📫 How to reach me: <a href="https://wa.me/+2349033677589?text=Hi+AnonyminHack5+I+am ">Whatsapp</a>
+- 📫 How to reach me: <a href="https://www.facebook.com/AnonyminHack5" target="_blank" >Facebook</a>
 - ⚡ Fun fact: I love eating a lot 😅😅😅
 -->
 
