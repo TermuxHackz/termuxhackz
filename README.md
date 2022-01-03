@@ -1,6 +1,6 @@
 ### Hi there its me AnonyminHack5👋
 
-- 🔭 I’m currently working on more projects involving python, shell, c++ and nodejs
+- 🔭 I’m currently working on more projects involving python, shell, c++, golang, php and nodejs
 - 🌱 I’m currently learning perl 
 - 📫 How to reach me: <a href="https://www.facebook.com/AnonyminHack5" target="_blank" >Facebook</a>
 - ⚡ Fun fact: I love eating a lot 😅😅😅
