@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on more projects involving python, shell, c++, golang, php and nodejs
 - 🌱 I’m currently learning perl 
-- 📫 How to reach me: <a href="https://wa.me/+447780918504?text=Hi+AnonyminHack5+nice+to+meet+you+my+name+is+ " target="_blank" >Whatsapp (No spamming)</a>
+- 📫 How to reach me: Discord (techcodes12)
 - 💠 I love programming a lot in shell and python and looking forward to make other scripts with perl. Going to be a great expert experience for me though.
 
 
