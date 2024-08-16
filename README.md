@@ -7,7 +7,7 @@
 
 
 ### Stay Ethical
-<img src="https://github.com/TermuxHackz/termuxhackz/blob/master/hacker_uGThpFPb.gif"/>
+<img src="https://github.com/TermuxHackz/termuxhackz/blob/master/221968.gif"/>
 
 
 <center>
